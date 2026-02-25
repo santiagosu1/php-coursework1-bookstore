@@ -219,7 +219,7 @@ if (file_exists('bookstore_log.txt')) {
 </div>
 
 <div class="panel">
-<h2>Log (bonus)</h2>
+<h2>Log</h2>
 
 <?php if (trim($logContent) === ''): ?>
 <p class="small">Log is empty.</p>
