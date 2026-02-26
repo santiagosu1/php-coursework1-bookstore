@@ -1,0 +1,20 @@
+Nonrepudiation in digital systems means ensuring that a user cannot deny performing a specific 
+action, such as sending a message, approving a payment, or making a purchase. It provides reliable 
+proof of who performed an action and when it happened. This is usually achieved by combining 
+identity verification, secure records, and cryptographic techniques so that actions are traceable 
+and verifiable.
+
+Nonrepudiation is especially important for applications like online bookstores because transactions 
+involve payments, orders, and digital records that may later be disputed. For example, a customer 
+might claim they never placed an order, or a seller might deny processing a purchase. By implementing 
+nonrepudiation mechanisms, the system can provide evidence showing that a transaction was authorized 
+and completed, protecting both customers and businesses while reducing fraud and legal conflicts.
+
+Besides logging, several tools and technologies help achieve nonrepudiation. Digital signatures use 
+cryptography to verify that a message or transaction came from a specific user and has not been 
+altered. Audit trails maintain a secure, chronological history of system activities, making it 
+easier to trace events. Blockchain technology can also support nonrepudiation by storing transaction 
+records in a decentralized and tamper-resistant way. Additionally, multi-factor authentication (MFA) 
+and public key infrastructure (PKI) strengthen identity verification, ensuring that actions are strongly
+ tied to legitimate users. Together, these technologies create trustworthy digital evidence and 
+ accountability in modern systems.
