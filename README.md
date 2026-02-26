@@ -5,10 +5,10 @@ arrays, functions (pass-by-reference), conditionals, loops, POST handling, date/
 
 ## Files
 - `index.php` — main script (inventory, form handling, discounts, totals, server info, logging, display)
-- `bookstore_log.txt` — append-only log (can be empty initially)
-- `nonrepudiation_essay.md` — 150–250 word essay
+- `bookstore_log.txt`
+- `nonrepudiation_essay.txt`
 
-## How to run (local)
+## How to run
 1. Install a local PHP server (XAMPP/WAMP/MAMP) or use PHP built-in server.
 2. Place the folder in:
    - XAMPP: `htdocs/your-folder/`
